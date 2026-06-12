@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" width="60" height="60">
+  <!-- outer rounded square -->
+  <rect x="5" y="5" width="50" height="50" rx="14" fill="none" stroke="#222" stroke-width="4"/>
+  <!-- circle -->
+  <circle cx="30" cy="30" r="12" fill="none" stroke="#222" stroke-width="4"/>
+  <!-- dot top right -->
+  <circle cx="43" cy="17" r="3.5" fill="#222"/>
+</svg>
