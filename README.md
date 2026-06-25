@@ -1,35 +1,40 @@
-# StudySync 📚
+# StudySync Landing Page
 
-A modern and responsive educational website built using HTML and CSS.
+A modern and responsive educational landing page designed to showcase an online learning platform. The project focuses on clean design, responsive layouts, and user-friendly navigation.
 
-## 🖥️ Live Preview
-Open index.html in your browser to view the project.
+## Live Demo
+https://durga-ranakoti-carry.github.io/StudySync
 
-## 🛠️ Technologies Used
+## GitHub Repository
+https://github.com/durga-ranakoti-carry/StudySync
+
+## Features
+
+- Responsive layout
+- Modern UI design
+- Hero section
+- Feature sections
+- Call-to-action buttons
+- Clean navigation
+
+## Technologies Used
+
 - HTML5
 - CSS3
 
-## ✨ Features
-- Responsive Navigation Bar
-- Hero Section
-- Trusted Companies Section
-- Features Section
-- Testimonials Section
-- Newsletter Section
-- Footer Section
-- Mobile-Friendly Design
+## What I Learned
 
-## 📁 Project Structure
-- index.html — Main HTML file
-- style.css — All CSS styling
-- images/ — Project images and assets
+- Responsive web design
+- Layout structuring
+- CSS styling techniques
+- User experience principles
 
-## 🚀 How to Run
-1. Download all files
-2. Keep all images in the correct folder
-3. Open index.html in browser
+## Future Improvements
 
-## 👩‍💻 Built By
+- Add animations
+- Add interactive elements
+- Improve accessibility
+
+## Author
+
 Durga Ranakoti
-Frontend Developer | BSc IT Student
-Dehradun, Uttarakhand
